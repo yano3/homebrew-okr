@@ -1,4 +1,5 @@
 class Okr < Formula
+  version 'v0.1.1'
   desc "Build okara URL with cli."
   homepage "https://github.com/yano3/okr"
   url "https://github.com/yano3/okr/releases/download/v0.1.1/okr_darwin_amd64.zip"
